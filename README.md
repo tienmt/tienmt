@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tienmt
 - 👀 I’m interested in stats
-- 🌱 I’m currently a postdoc at NTNU
+- 🌱 I’m currently a postdoc at FHI
 - 💞️ I’m looking to collaborate on stats
 - 📫 How to reach me ...
 
